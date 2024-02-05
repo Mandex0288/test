@@ -1,0 +1,107 @@
+[
+    {
+        "id":1,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/cpu1.jpg"  
+    },
+    {
+        "id":2,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/cpu2.jpg"  
+    },
+    {
+        "id":3,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/cpu3.jpg"  
+    },
+    {
+        "id":4,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/cpu4.jpg"  
+    },
+    {
+        "id":5,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/cpu5.jpg"  
+    },
+    {
+        "id":6,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/cpu6.jpg"  
+    },
+    {
+        "id":6,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/cpu7.jpg"  
+    },
+    {
+        "id":7,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/cpu8.jpg"  
+    },
+    {
+        "id":8,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/cpu9.jpg"  
+    },
+    {
+        "id":9,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/cpu10.jpg"  
+    },
+    {
+        "id":10,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/cpu11.jpg"  
+    },
+    {
+        "id":11,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/cpu12.jpg"  
+    },
+    {
+        "id":12,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/kep1.jpg"  
+    },
+    {
+        "id":13,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/kep2.jpg"  
+    },
+    {
+        "id":14,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/kep3.jpg"  
+    },
+    {
+        "id":15,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/kep4.jpg"  
+    },
+    {
+        "id":16,
+        "name":"intel i3 14th gen",
+        "price": 150,
+        "image":"cpukepek/kep6.jpg"  
+    }
+
+
+
+]
