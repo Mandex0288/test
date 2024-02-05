@@ -19,7 +19,7 @@ const addDataToHTML = () =>{
            let newProduct = document.createElement('div');
            newProduct.classList.add('item');
            newProduct.innerHTML = `
-           <img src="/cpukepek/cpu1.jpg" alt="">
+           <img src="${product.image}" alt="">
            <h2>intel i3 14th gen</h2>
            <div class="price">50000ft</div>
            <button class="addCart">
